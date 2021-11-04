@@ -1,19 +1,26 @@
-# MetaMask Browser Extension
+# PLAYPLZ METAMASK WALLET PROJECT 
+MetaMask Browser Extension
 
-Hey! We are hiring JavaScript Engineers! [Apply here](https://boards.greenhouse.io/consensys/jobs/2572388)!
----
+This is our first project to make ERC20,ERC721,ERC1155 token based on ETHERUM mainent network.
 
-You can find the latest version of MetaMask on [our official website](https://metamask.io/). For help using MetaMask, visit our [User Support Site](https://metamask.zendesk.com/hc/en-us).
+We aim to make token automatically and connect it to our browser user
 
-For [general questions](https://community.metamask.io/c/learn/26), [feature requests](https://community.metamask.io/c/feature-requests-ideas/13), or [developer questions](https://community.metamask.io/c/developer-questions/11), visit our [Community Forum](https://community.metamask.io/).
+AUTOMATIC LISTS
+- transaction
+- connecting wallet
+- minting token
+- transfer token
+- Catch the flag 
+- WEB3 JS
 
-MetaMask supports Firefox, Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
 
-For up to the minute news, follow our [Twitter](https://twitter.com/metamask) or [Medium](https://medium.com/metamask) pages.
+This project is all allowed to fork, pull, clone for development
 
-To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://metamask.github.io/metamask-docs/).
+I opened community net to cowork this project
 
-To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
+# CONTACT
+eaa0305@naver.com
+
 
 ## Building locally
 
